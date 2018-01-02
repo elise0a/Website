@@ -17,7 +17,8 @@
       <pubDate>Tue, 02 Jan 2018 12:03:16 -0500</pubDate>
       
       <guid>https://elise0a.github.io/Website/posts/my-first-post/</guid>
-      <description>hafhah</description>
+      <description>Workflow:
+ Create a post under post/&amp;hellip; go to the terminal, run hugo git add -A git commit -m &amp;ldquo;your message&amp;rdquo; git push  </description>
     </item>
     
   </channel>
