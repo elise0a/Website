@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://elise0a.github.io/posts/my-first-post/</loc>
+    <loc>https://elise0a.github.io/Website/posts/my-first-post/</loc>
     <lastmod>2018-01-02T12:03:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://elise0a.github.io/categories/</loc>
+    <loc>https://elise0a.github.io/Website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://elise0a.github.io/</loc>
-    <lastmod>2018-01-02T12:03:16-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://elise0a.github.io/posts/</loc>
+    <loc>https://elise0a.github.io/Website/</loc>
     <lastmod>2018-01-02T12:03:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://elise0a.github.io/tags/</loc>
+    <loc>https://elise0a.github.io/Website/posts/</loc>
+    <lastmod>2018-01-02T12:03:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elise0a.github.io/Website/tags/</loc>
     <priority>0</priority>
   </url>
   

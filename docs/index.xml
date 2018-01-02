@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://elise0a.github.io/</link>
+    <link>https://elise0a.github.io/Website/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jan 2018 12:03:16 -0500</lastBuildDate>
     
-	<atom:link href="http://elise0a.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elise0a.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://elise0a.github.io/posts/my-first-post/</link>
+      <link>https://elise0a.github.io/Website/posts/my-first-post/</link>
       <pubDate>Tue, 02 Jan 2018 12:03:16 -0500</pubDate>
       
-      <guid>http://elise0a.github.io/posts/my-first-post/</guid>
+      <guid>https://elise0a.github.io/Website/posts/my-first-post/</guid>
       <description>hafhah</description>
     </item>
     
