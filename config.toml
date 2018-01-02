@@ -1,5 +1,5 @@
 baseURL = "https://elise0a.github.io/Website"
 languageCode = "en-us"
-title = “Elise Amez-Droz“
+title = "Elise Amez-Droz"
 theme = "ananke"
 publishDir = "docs"
